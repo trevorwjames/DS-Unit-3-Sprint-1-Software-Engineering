@@ -1,3 +1,7 @@
+# Trevor's mod 1 Package link
+[My Python Package](https://github.com/trevorwjames/lambdata)
+[My Package install link](https://test.pypi.org/project/lambdata-trevorjames/0.0.2/)
+
 # Python Modules, Packages, and Environments
 
 Places for your code (and dependencies) to live.
